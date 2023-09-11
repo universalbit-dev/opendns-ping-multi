@@ -1,0 +1,29 @@
+{
+  "name": "opendns",
+  "version": "1.0.0",
+  "description": "opendns",
+  "main": "opendns.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/universalbit-dev/ping-multi-ext.git"
+  },
+
+  "dependencies": {
+   "pm2":"^5.3.0",
+   "ping":"^0.4.4"
+  },
+
+  "keywords": [
+    "opendns",
+    "solver"
+  ],
+  "author": "UniversalBit",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/universalbit-dev/ping-multi-ext/issues"
+  },
+  "homepage": "https://github.com/universalbit-dev/ping-multi-ext#readme"
+}
