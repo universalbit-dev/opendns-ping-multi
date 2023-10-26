@@ -11,8 +11,10 @@ nvm i 20
 git clone https://github.com/universalbit-dev/opendns-ping-multi.git
 ```
 ##### Install dependencies  
-[Pm2] Process Managment and Load Balancer, [Ping] nodejs system ping utility
+Process Manager and Load Balancer
 * [PM2](https://pm2.io/docs/plus/quick-start/)
+  
+Nodejs system ping utility
 * [Ping](https://www.npmjs.com/package/ping)
   
 ```
