@@ -10,7 +10,10 @@ nvm i 20
 ```
 git clone https://github.com/universalbit-dev/opendns-ping-multi.git
 ```
-##### Install dependencies  * [PM2](https://pm2.io/docs/plus/quick-start/) * [Ping](https://www.npmjs.com/package/ping)
+##### Install dependencies  
+[Pm2] Process Managment and Load Balancer, [Ping] nodejs system ping utility
+* [PM2](https://pm2.io/docs/plus/quick-start/)
+* [Ping](https://www.npmjs.com/package/ping)
   
 ```
 npm i && npm audit fix
